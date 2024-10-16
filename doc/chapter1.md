@@ -46,3 +46,4 @@ class Sample {
 ```text
 错误: 在类 com.starwiper.chapter1.Foo 中找不到 main(String[]) 方法
 ```
+
